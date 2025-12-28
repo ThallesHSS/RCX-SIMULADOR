@@ -1,2 +1,0 @@
-# RCX-SIMULADOR
-Simulador rcx
